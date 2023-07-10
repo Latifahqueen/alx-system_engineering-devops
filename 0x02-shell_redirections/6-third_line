@@ -1,0 +1,3 @@
+#!/bin/bash
+grep -n '^' iacta | grep -w 3
+
